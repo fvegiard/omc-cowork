@@ -1,0 +1,22 @@
+{
+  "name": "omc-cowork",
+  "owner": {
+    "name": "fvegiard"
+  },
+  "metadata": {
+    "description": "oh-my-claudecode pour claude.ai/Cowork : branche cowork (sans bin/) du fork fvegiard/oh-my-claudecode"
+  },
+  "plugins": [
+    {
+      "name": "oh-my-claudecode",
+      "description": "Multi-agent orchestration (OMC), branche cowork sans top-level bin/",
+      "source": {
+        "source": "github",
+        "repo": "fvegiard/oh-my-claudecode",
+        "ref": "cowork"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/fvegiard/oh-my-claudecode/tree/cowork"
+    }
+  ]
+}
